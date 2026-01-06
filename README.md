@@ -2,6 +2,7 @@
 //jg;sdfgj;sldf;ldlafasdfasdfasdfasdf
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # try-try-tryfsfsfasdfsdf
 =======
 # try-try-tryfs
@@ -9,3 +10,6 @@
 =======
 # try-try-tryfsfsfasdf
 >>>>>>> parent of 3e9131c (no message)
+=======
+# try-try-tryfsfsfasdfsdf
+>>>>>>> parent of baf4dcb (no message)
